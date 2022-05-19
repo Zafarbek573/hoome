@@ -1,0 +1,132 @@
+@media (max-width: 1200px){}
+@media (max-width: 992px){
+    .mein_blog{
+        width: 250px;
+    }
+    .contanier{
+        width: 90%;
+    }
+    .ps_text{
+        width: 400px;
+    }
+    .ser_card{
+        display: flex;
+        flex-wrap: wrap;
+        width: 700px;
+        margin: 0 auto;
+    }
+    .ser_blog{
+        margin-bottom: 25px;
+    }
+    .sec_blog img{
+        width: 270px;
+    }
+    .feil_blog_right{
+        width: 600px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .input_blog{
+        width: 270px;
+    }
+}
+@media (max-width: 768px){
+    .seredina_p{
+        flex-wrap: wrap;
+    }
+    .ps_text{
+        margin: 0 auto 25px;
+    }
+    .seredina_pblog{
+        margin: 0 auto;
+    }
+    .ser_card{
+        width: 600px;
+        margin: 0 auto;
+    }
+    .sec_blog img{
+        width: 200px;
+    }
+    .section_card{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .section_card img{
+        margin: 0 auto 25px;
+    }
+    .blog_blog{
+        margin: 0 auto;
+        width: 500px;
+    }
+    .bott{
+        margin-top: 25px;
+        width: 600px;
+    }
+    .p_text{
+        width: 600px;
+    }
+    .feil_blog_right{
+        width: 450px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .yyy{
+        width: 450px;
+    }
+    .input_blog{
+        width: 200px;
+    }
+}
+@media (max-width: 576px){
+    .mein_card{
+        flex-wrap: wrap;
+    }
+    .mein_blog{
+        width: 350px;
+        margin: 15px auto;
+    }
+    .ser_blog{
+        /* width: 450px; */
+        margin: 10px auto;
+    }
+    .ser_card{
+        width: 450px;
+    }
+    .right_soz{
+        width: 450px;
+    }
+    .bott{
+        width: 450px;
+    }
+    .img_blog{
+        flex-wrap: wrap;
+    }
+    .p_text{
+        width: 450px;
+    }
+    .fiel_card{
+        flex-wrap: wrap;
+        margin: 0 30px;
+    }
+    .feil_blog_left{
+        display: flex;
+    }
+    .f_blog_left{
+        width: 140px;
+    }
+    .nav_link{
+        width: 350px;
+        flex-wrap: wrap;
+        justify-content: end;
+    }
+    .nav_list{
+        margin-bottom: 10px;
+    }
+    .sec_blog img{
+        width: 450px;
+    }
+    .sec_blog{
+        width: 450px;
+        margin-left: 30px;
+    }
+}

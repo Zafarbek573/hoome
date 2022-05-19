@@ -1,0 +1,12 @@
+@font-face {
+    font-family: '';
+    src: url('AdobeHeitiStd-Regular-Alphabetic.eot');
+    src: url('AdobeHeitiStd-Regular-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('AdobeHeitiStd-Regular-Alphabetic.woff2') format('woff2'),
+        url('AdobeHeitiStd-Regular-Alphabetic.woff') format('woff'),
+        url('AdobeHeitiStd-Regular-Alphabetic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
